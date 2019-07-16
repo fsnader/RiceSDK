@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Rice.SDK.2139387768.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Rice.SDK" t="IncludeRecursive">
+        <e p="Authentication" t="Include">
+          <e p="TokenBuilder.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Business" t="Include">
+          <e p="Concrete" t="Include">
+            <e p="BaseBusiness.cs" t="Include" />
+            <e p="BaseDataTransferBusiness.cs" t="Include" />
+          </e>
+          <e p="Contract" t="Include">
+            <e p="IBusiness.cs" t="Include" />
+            <e p="IDataTransferBusiness.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Domain" t="Include">
+          <e p="Contract" t="Include">
+            <e p="IDataTransferEntity.cs" t="Include" />
+            <e p="IIdentifiableEntity.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Exceptions" t="Include">
+          <e p="Api" t="Include">
+            <e p="ApiException.cs" t="Include" />
+            <e p="BadRequestException.cs" t="Include" />
+            <e p="BusinessException.cs" t="Include" />
+            <e p="NotFoundException.cs" t="Include" />
+            <e p="UnauthorizedException.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Rice.SDK.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repository" t="Include">
+          <e p="Concrete" t="Include">
+            <e p="BaseRepository.cs" t="Include" />
+          </e>
+          <e p="Contract" t="Include">
+            <e p="IRepository.cs" t="Include" />
+            <e p="IRepositoryReader.cs" t="Include" />
+            <e p="IRepositoryWriter.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Rice.SDK.csproj" t="IncludeRecursive" />
+        <e p="Utils" t="Include">
+          <e p="ClaimsPrincipalExtensions.cs" t="Include" />
+          <e p="FilterParameters.cs" t="Include" />
+          <e p="HashUtils.cs" t="Include" />
+          <e p="IQueryableExtensions.cs" t="Include" />
+          <e p="PathExtensions.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Rice.SDK.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
