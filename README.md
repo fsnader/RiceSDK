@@ -43,7 +43,7 @@ Rice.SDK Structure:
 
 How to use
 -------
-The example project uses all the basic SDK functionalities. (WIP)
+The example project uses all the basic SDK functionalities. We recommend you to download it and see how is used (WIP)
 
 - Examples:
     - RiceWebBase: A base Web API project that uses the Rice.SDK (WIP)
