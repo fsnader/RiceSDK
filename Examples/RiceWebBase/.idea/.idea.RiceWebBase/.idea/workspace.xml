@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd35149-ff84-4f34-ac73-9a0a5b6a7d81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Rice.SDK/.idea/.idea.Rice.SDK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rice.SDK/.idea/.idea.Rice.SDK/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Rice.SDK/Rice.SDK/Rice.SDK.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rice.SDK/Rice.SDK/Rice.SDK.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,32 +13,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state relative-caret-position="-2">
+              <caret line="125" column="37" lean-forward="true" selection-start-line="125" selection-start-column="37" selection-end-line="125" selection-end-column="37" />
               <folding>
-                <marker date="1565660561105" expanded="true" signature="6:292" ph="..." />
-                <marker date="1565660561105" expanded="true" signature="332:4195" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="339:483" ph="///  ... " />
-                <marker date="1565660561105" expanded="true" signature="647:4193" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="758:812" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="822:923" ph="/// Returns all entities ... " />
-                <marker date="1565660561105" expanded="true" signature="1046:1129" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="1139:1293" ph="/// Returns the entity with provided Id ... " />
-                <marker date="1565660561105" expanded="true" signature="1438:1682" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="1692:1856" ph="/// Finds entities based on a provided filter ... " />
-                <marker date="1565660561105" expanded="true" signature="1989:2083" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="2093:2281" ph="/// Update the specified entity ... " />
-                <marker date="1565660561105" expanded="true" signature="2459:2937" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="2641:2715" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="2764:2894" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="2947:3090" ph="/// Creates a new entity ... " />
-                <marker date="1565660561105" expanded="true" signature="3232:3459" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="3469:3616" ph="/// Deletes the specified entity ... " />
-                <marker date="1565660561105" expanded="true" signature="3770:4074" ph="{...}" />
-                <marker date="1565660561105" expanded="true" signature="4117:4187" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="6:292" ph="..." />
+                <marker date="1565662506071" expanded="true" signature="332:4201" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="339:483" ph="///  ... " />
+                <marker date="1565662506071" expanded="true" signature="647:4199" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="758:812" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="822:923" ph="/// Returns all entities ... " />
+                <marker date="1565662506071" expanded="true" signature="1046:1129" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="1139:1293" ph="/// Returns the entity with provided Id ... " />
+                <marker date="1565662506071" expanded="true" signature="1438:1682" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="1692:1856" ph="/// Finds entities based on a provided filter ... " />
+                <marker date="1565662506071" expanded="true" signature="1989:2083" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="2093:2281" ph="/// Update the specified entity ... " />
+                <marker date="1565662506071" expanded="true" signature="2459:2937" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="2641:2715" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="2764:2894" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="2947:3090" ph="/// Creates a new entity ... " />
+                <marker date="1565662506071" expanded="true" signature="3232:3465" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="3475:3622" ph="/// Deletes the specified entity ... " />
+                <marker date="1565662506071" expanded="true" signature="3776:4080" ph="{...}" />
+                <marker date="1565662506071" expanded="true" signature="4123:4193" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -83,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RiceWebBase.Repository/Class1.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
@@ -97,31 +97,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RiceWebBase/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <marker date="1565660086399" expanded="false" signature="6:402" ph="..." />
+                <marker date="1565660086399" expanded="true" signature="425:1522" ph="{...}" />
+                <marker date="1565660086399" expanded="true" signature="452:1520" ph="{...}" />
+                <marker date="1565660086399" expanded="true" signature="511:574" ph="{...}" />
+                <marker date="1565660086399" expanded="true" signature="797:906" ph="{...}" />
+                <marker date="1565660086399" expanded="true" signature="1094:1514" ph="{...}" />
+                <marker date="1565660086399" expanded="true" signature="1141:1218" ph="{...}" />
+                <marker date="1565660086399" expanded="true" signature="1235:1438" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="1460">
+              <caret line="123" column="9" lean-forward="true" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
               <folding>
-                <marker date="1565660547056" expanded="true" signature="6:292" ph="..." />
-                <marker date="1565660547056" expanded="true" signature="332:4638" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="339:614" ph="///  ... " />
-                <marker date="1565660547056" expanded="true" signature="878:4636" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="1063:1117" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="1127:1228" ph="/// Returns all entities ... " />
-                <marker date="1565660547056" expanded="true" signature="1371:1458" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="1468:1622" ph="/// Returns the entity with provided Id ... " />
-                <marker date="1565660547056" expanded="true" signature="1775:2025" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="2035:2199" ph="/// Finds entities based on a provided filter ... " />
-                <marker date="1565660547056" expanded="true" signature="2352:2452" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="2462:2650" ph="/// Update the specified entity ... " />
-                <marker date="1565660547056" expanded="true" signature="2848:3332" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="3030:3110" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="3159:3289" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="3342:3485" ph="/// Creates a new entity ... " />
-                <marker date="1565660547056" expanded="true" signature="3647:3880" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="3890:4037" ph="/// Deletes the specified entity ... " />
-                <marker date="1565660547056" expanded="true" signature="4199:4509" ph="{...}" />
-                <marker date="1565660547056" expanded="true" signature="4554:4630" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="6:292" ph="..." />
+                <marker date="1565662493293" expanded="true" signature="332:4644" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="339:614" ph="///  ... " />
+                <marker date="1565662493293" expanded="true" signature="878:4642" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="1063:1117" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="1127:1228" ph="/// Returns all entities ... " />
+                <marker date="1565662493293" expanded="true" signature="1371:1458" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="1468:1622" ph="/// Returns the entity with provided Id ... " />
+                <marker date="1565662493293" expanded="true" signature="1775:2025" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="2035:2199" ph="/// Finds entities based on a provided filter ... " />
+                <marker date="1565662493293" expanded="true" signature="2352:2452" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="2462:2650" ph="/// Update the specified entity ... " />
+                <marker date="1565662493293" expanded="true" signature="2848:3332" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="3030:3110" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="3159:3289" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="3342:3485" ph="/// Creates a new entity ... " />
+                <marker date="1565662493293" expanded="true" signature="3647:3886" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="3896:4043" ph="/// Deletes the specified entity ... " />
+                <marker date="1565662493293" expanded="true" signature="4205:4515" ph="{...}" />
+                <marker date="1565662493293" expanded="true" signature="4560:4636" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -175,6 +194,7 @@
     <setting file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RiceWebBase.Repository/Class1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RiceWebBase.Business/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiceWebBase/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -182,11 +202,11 @@
       <list>
         <option value="$PROJECT_DIR$/RiceWebBase/Attributes/ApiExceptionFilter.cs" />
         <option value="$PROJECT_DIR$/RiceWebBase/Attributes/AuthorizeRolesAttribute.cs" />
-        <option value="$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs" />
-        <option value="$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs" />
         <option value="$PROJECT_DIR$/RiceWebBase.Business/Class1.cs" />
         <option value="$PROJECT_DIR$/RiceWebBase.Domain/Class1.cs" />
         <option value="$PROJECT_DIR$/RiceWebBase.Repository/Class1.cs" />
+        <option value="$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs" />
+        <option value="$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs" />
       </list>
     </option>
   </component>
@@ -212,6 +232,29 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="RiceWebBase" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RiceWebBase" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RiceWebBase" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RiceWebBase" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RiceWebBase" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RiceWebBase" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RiceWebBase" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Base" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RiceWebBase" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RiceWebBase.Domain" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -263,12 +306,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565660073069</updated>
-      <workItem from="1565660076375" duration="580000" />
+      <workItem from="1565660076375" duration="1314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="580000" />
+    <option name="totallyTimeSpent" value="1314000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,64 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <marker date="1565660547056" expanded="true" signature="6:292" ph="..." />
-            <marker date="1565660547056" expanded="true" signature="332:4638" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="339:614" ph="///  ... " />
-            <marker date="1565660547056" expanded="true" signature="878:4636" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="1063:1117" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="1127:1228" ph="/// Returns all entities ... " />
-            <marker date="1565660547056" expanded="true" signature="1371:1458" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="1468:1622" ph="/// Returns the entity with provided Id ... " />
-            <marker date="1565660547056" expanded="true" signature="1775:2025" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="2035:2199" ph="/// Finds entities based on a provided filter ... " />
-            <marker date="1565660547056" expanded="true" signature="2352:2452" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="2462:2650" ph="/// Update the specified entity ... " />
-            <marker date="1565660547056" expanded="true" signature="2848:3332" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="3030:3110" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="3159:3289" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="3342:3485" ph="/// Creates a new entity ... " />
-            <marker date="1565660547056" expanded="true" signature="3647:3880" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="3890:4037" ph="/// Deletes the specified entity ... " />
-            <marker date="1565660547056" expanded="true" signature="4199:4509" ph="{...}" />
-            <marker date="1565660547056" expanded="true" signature="4554:4630" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding>
-            <marker date="1565660561105" expanded="true" signature="6:292" ph="..." />
-            <marker date="1565660561105" expanded="true" signature="332:4195" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="339:483" ph="///  ... " />
-            <marker date="1565660561105" expanded="true" signature="647:4193" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="758:812" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="822:923" ph="/// Returns all entities ... " />
-            <marker date="1565660561105" expanded="true" signature="1046:1129" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="1139:1293" ph="/// Returns the entity with provided Id ... " />
-            <marker date="1565660561105" expanded="true" signature="1438:1682" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="1692:1856" ph="/// Finds entities based on a provided filter ... " />
-            <marker date="1565660561105" expanded="true" signature="1989:2083" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="2093:2281" ph="/// Update the specified entity ... " />
-            <marker date="1565660561105" expanded="true" signature="2459:2937" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="2641:2715" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="2764:2894" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="2947:3090" ph="/// Creates a new entity ... " />
-            <marker date="1565660561105" expanded="true" signature="3232:3459" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="3469:3616" ph="/// Deletes the specified entity ... " />
-            <marker date="1565660561105" expanded="true" signature="3770:4074" ph="{...}" />
-            <marker date="1565660561105" expanded="true" signature="4117:4187" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RiceWebBase/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -463,6 +448,81 @@
           <folding>
             <marker date="1565660651793" expanded="true" signature="47:87" ph="{...}" />
             <marker date="1565660651793" expanded="true" signature="73:85" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <marker date="1565660086399" expanded="false" signature="6:402" ph="..." />
+            <marker date="1565660086399" expanded="true" signature="425:1522" ph="{...}" />
+            <marker date="1565660086399" expanded="true" signature="452:1520" ph="{...}" />
+            <marker date="1565660086399" expanded="true" signature="511:574" ph="{...}" />
+            <marker date="1565660086399" expanded="true" signature="797:906" ph="{...}" />
+            <marker date="1565660086399" expanded="true" signature="1094:1514" ph="{...}" />
+            <marker date="1565660086399" expanded="true" signature="1141:1218" ph="{...}" />
+            <marker date="1565660086399" expanded="true" signature="1235:1438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="123" column="9" lean-forward="true" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+          <folding>
+            <marker date="1565662493293" expanded="true" signature="6:292" ph="..." />
+            <marker date="1565662493293" expanded="true" signature="332:4644" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="339:614" ph="///  ... " />
+            <marker date="1565662493293" expanded="true" signature="878:4642" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="1063:1117" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="1127:1228" ph="/// Returns all entities ... " />
+            <marker date="1565662493293" expanded="true" signature="1371:1458" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="1468:1622" ph="/// Returns the entity with provided Id ... " />
+            <marker date="1565662493293" expanded="true" signature="1775:2025" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="2035:2199" ph="/// Finds entities based on a provided filter ... " />
+            <marker date="1565662493293" expanded="true" signature="2352:2452" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="2462:2650" ph="/// Update the specified entity ... " />
+            <marker date="1565662493293" expanded="true" signature="2848:3332" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="3030:3110" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="3159:3289" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="3342:3485" ph="/// Creates a new entity ... " />
+            <marker date="1565662493293" expanded="true" signature="3647:3886" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="3896:4043" ph="/// Deletes the specified entity ... " />
+            <marker date="1565662493293" expanded="true" signature="4205:4515" ph="{...}" />
+            <marker date="1565662493293" expanded="true" signature="4560:4636" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="125" column="37" lean-forward="true" selection-start-line="125" selection-start-column="37" selection-end-line="125" selection-end-column="37" />
+          <folding>
+            <marker date="1565662506071" expanded="true" signature="6:292" ph="..." />
+            <marker date="1565662506071" expanded="true" signature="332:4201" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="339:483" ph="///  ... " />
+            <marker date="1565662506071" expanded="true" signature="647:4199" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="758:812" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="822:923" ph="/// Returns all entities ... " />
+            <marker date="1565662506071" expanded="true" signature="1046:1129" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="1139:1293" ph="/// Returns the entity with provided Id ... " />
+            <marker date="1565662506071" expanded="true" signature="1438:1682" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="1692:1856" ph="/// Finds entities based on a provided filter ... " />
+            <marker date="1565662506071" expanded="true" signature="1989:2083" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="2093:2281" ph="/// Update the specified entity ... " />
+            <marker date="1565662506071" expanded="true" signature="2459:2937" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="2641:2715" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="2764:2894" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="2947:3090" ph="/// Creates a new entity ... " />
+            <marker date="1565662506071" expanded="true" signature="3232:3465" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="3475:3622" ph="/// Deletes the specified entity ... " />
+            <marker date="1565662506071" expanded="true" signature="3776:4080" ph="{...}" />
+            <marker date="1565662506071" expanded="true" signature="4123:4193" ph="{...}" />
           </folding>
         </state>
       </provider>

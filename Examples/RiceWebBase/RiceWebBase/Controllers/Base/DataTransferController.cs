@@ -120,7 +120,7 @@ namespace RiceWebBase.Controllers.Base
 
             await _business.Save(entity, User);
 
-            return CreatedAtAction("GetEntity", new {id = entity.Id}, entity);
+            return CreatedAtAction(nameof(GetEntity), new {id = entity.Id}, entity);
         }
 
         /// <summary>
