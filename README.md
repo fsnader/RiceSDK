@@ -3,7 +3,7 @@ Rice.SDK
 
 Rice.SDK is a basic set of classes and interfaces used to develop .NET Core API's. It includes:
  - Classes to generate JWT tokens
- - An Entity Framework based generic repository
+ - An Entity Framework based generic repository with filter capabilities
  - Generic business classes to be used with these repositories
  - Exceptions that represent basic HTTP errors to be used in web applications
  - Some other usefull classes and extensions methods
