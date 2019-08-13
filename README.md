@@ -1,7 +1,21 @@
 Rice.SDK
 ---------------------
 
-Rice.SDK is a basic set of classes and interfaces used to develop .NET Core API's. It has the following structure:
+Rice.SDK is a basic set of classes and interfaces used to develop .NET Core API's. It includes:
+ - Classes to generate JWT tokens
+ - An Entity Framework based generic repository
+ - Generic business classes to be used with these repositories
+ - Exceptions that represent basic HTTP errors to be used in web applications
+ - Some other usefull classes and extensions methods
+
+
+It can be download from nuget: https://www.nuget.org/packages/Rice.SDK/
+
+    PM> Install-Package Rice.SDK -Version 1.0.0
+
+
+Rice.SDK Structure:
+------------
 
 - Voor.SDK:
     - Authentication: Classes responsible to create and manage JWT Tokens. It's principal class is TokenBuilder, used to generate the tokens.
@@ -25,3 +39,11 @@ Rice.SDK is a basic set of classes and interfaces used to develop .NET Core API'
         - Concrete/BaseRepository: Generic class that implements IRepositoryReader, IRepositoryWriter and IRepository. Can be used to provide any database read/write operation.
 
     - Utils: Useful classes and extension methods
+
+
+How to use
+-------
+The example project uses all the basic SDK functionalities. (WIP)
+
+- Examples:
+    - RiceWebBase: A base Web API project that uses the Rice.SDK (WIP)

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dd35149-ff84-4f34-ac73-9a0a5b6a7d81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Rice.SDK/.idea/.idea.Rice.SDK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rice.SDK/.idea/.idea.Rice.SDK/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rice.SDK/Rice.SDK/Rice.SDK.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rice.SDK/Rice.SDK/Rice.SDK.csproj" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+              <folding>
+                <marker date="1565660561105" expanded="true" signature="6:292" ph="..." />
+                <marker date="1565660561105" expanded="true" signature="332:4195" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="339:483" ph="///  ... " />
+                <marker date="1565660561105" expanded="true" signature="647:4193" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="758:812" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="822:923" ph="/// Returns all entities ... " />
+                <marker date="1565660561105" expanded="true" signature="1046:1129" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="1139:1293" ph="/// Returns the entity with provided Id ... " />
+                <marker date="1565660561105" expanded="true" signature="1438:1682" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="1692:1856" ph="/// Finds entities based on a provided filter ... " />
+                <marker date="1565660561105" expanded="true" signature="1989:2083" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="2093:2281" ph="/// Update the specified entity ... " />
+                <marker date="1565660561105" expanded="true" signature="2459:2937" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="2641:2715" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="2764:2894" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="2947:3090" ph="/// Creates a new entity ... " />
+                <marker date="1565660561105" expanded="true" signature="3232:3459" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="3469:3616" ph="/// Deletes the specified entity ... " />
+                <marker date="1565660561105" expanded="true" signature="3770:4074" ph="{...}" />
+                <marker date="1565660561105" expanded="true" signature="4117:4187" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RiceWebBase/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+              <folding>
+                <marker date="1565660086392" expanded="false" signature="6:255" ph="..." />
+                <marker date="1565660086392" expanded="true" signature="278:605" ph="{...}" />
+                <marker date="1565660086392" expanded="true" signature="305:603" ph="{...}" />
+                <marker date="1565660086392" expanded="true" signature="358:432" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RiceWebBase.Business/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1565660617769" expanded="true" signature="45:85" ph="{...}" />
+                <marker date="1565660617769" expanded="true" signature="71:83" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RiceWebBase.Domain/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1565660630318" expanded="true" signature="43:83" ph="{...}" />
+                <marker date="1565660630318" expanded="true" signature="69:81" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RiceWebBase.Repository/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <marker date="1565660651793" expanded="true" signature="47:87" ph="{...}" />
+                <marker date="1565660651793" expanded="true" signature="73:85" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <marker date="1565660547056" expanded="true" signature="6:292" ph="..." />
+                <marker date="1565660547056" expanded="true" signature="332:4638" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="339:614" ph="///  ... " />
+                <marker date="1565660547056" expanded="true" signature="878:4636" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="1063:1117" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="1127:1228" ph="/// Returns all entities ... " />
+                <marker date="1565660547056" expanded="true" signature="1371:1458" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="1468:1622" ph="/// Returns the entity with provided Id ... " />
+                <marker date="1565660547056" expanded="true" signature="1775:2025" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="2035:2199" ph="/// Finds entities based on a provided filter ... " />
+                <marker date="1565660547056" expanded="true" signature="2352:2452" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="2462:2650" ph="/// Update the specified entity ... " />
+                <marker date="1565660547056" expanded="true" signature="2848:3332" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="3030:3110" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="3159:3289" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="3342:3485" ph="/// Creates a new entity ... " />
+                <marker date="1565660547056" expanded="true" signature="3647:3880" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="3890:4037" ph="/// Deletes the specified entity ... " />
+                <marker date="1565660547056" expanded="true" signature="4199:4509" ph="{...}" />
+                <marker date="1565660547056" expanded="true" signature="4554:4630" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RiceWebBase/Attributes/AuthorizeRolesAttribute.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+              <folding>
+                <marker date="1565660408523" expanded="true" signature="6:55" ph="..." />
+                <marker date="1565660408523" expanded="true" signature="89:567" ph="{...}" />
+                <marker date="1565660408523" expanded="true" signature="96:201" ph="/// Attribute to determine roles that can access a controller/action ... " />
+                <marker date="1565660408523" expanded="true" signature="263:565" ph="{...}" />
+                <marker date="1565660408523" expanded="true" signature="278:432" ph="/// Attribute to determine roles that can access a controller/action ... " />
+                <marker date="1565660408523" expanded="true" signature="494:559" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RiceWebBase/Attributes/ApiExceptionFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+              <folding>
+                <marker date="1565660366007" expanded="true" signature="6:121" ph="..." />
+                <marker date="1565660366007" expanded="true" signature="155:2111" ph="{...}" />
+                <marker date="1565660366007" expanded="true" signature="162:285" ph="/// Exception filter responsible for casting http exceptions and return them correctly ... " />
+                <marker date="1565660366007" expanded="true" signature="348:2109" ph="{...}" />
+                <marker date="1565660366007" expanded="true" signature="366:486" ph="/// On Exception method override ... " />
+                <marker date="1565660366007" expanded="true" signature="553:2103" ph="{...}" />
+                <marker date="1565660366007" expanded="true" signature="602:2053" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RiceWebBase/Attributes/AuthorizeRolesAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiceWebBase/Attributes/ApiExceptionFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiceWebBase/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiceWebBase.Domain/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiceWebBase.Repository/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiceWebBase.Business/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RiceWebBase/Attributes/ApiExceptionFilter.cs" />
+        <option value="$PROJECT_DIR$/RiceWebBase/Attributes/AuthorizeRolesAttribute.cs" />
+        <option value="$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs" />
+        <option value="$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs" />
+        <option value="$PROJECT_DIR$/RiceWebBase.Business/Class1.cs" />
+        <option value="$PROJECT_DIR$/RiceWebBase.Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/RiceWebBase.Repository/Class1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1280" />
+    <option name="y" value="-82" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RiceWebBase" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RiceWebBase" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/RiceWebBase/RiceWebBase.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="RiceWebBase" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dd35149-ff84-4f34-ac73-9a0a5b6a7d81" name="Default Changelist" comment="" />
+      <created>1565660073069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565660073069</updated>
+      <workItem from="1565660076375" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="580000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="-82" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase/Attributes/ApiExceptionFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+          <folding>
+            <marker date="1565660366007" expanded="true" signature="6:121" ph="..." />
+            <marker date="1565660366007" expanded="true" signature="155:2111" ph="{...}" />
+            <marker date="1565660366007" expanded="true" signature="162:285" ph="/// Exception filter responsible for casting http exceptions and return them correctly ... " />
+            <marker date="1565660366007" expanded="true" signature="348:2109" ph="{...}" />
+            <marker date="1565660366007" expanded="true" signature="366:486" ph="/// On Exception method override ... " />
+            <marker date="1565660366007" expanded="true" signature="553:2103" ph="{...}" />
+            <marker date="1565660366007" expanded="true" signature="602:2053" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase/Attributes/AuthorizeRolesAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <marker date="1565660408523" expanded="true" signature="6:55" ph="..." />
+            <marker date="1565660408523" expanded="true" signature="89:567" ph="{...}" />
+            <marker date="1565660408523" expanded="true" signature="96:201" ph="/// Attribute to determine roles that can access a controller/action ... " />
+            <marker date="1565660408523" expanded="true" signature="263:565" ph="{...}" />
+            <marker date="1565660408523" expanded="true" signature="278:432" ph="/// Attribute to determine roles that can access a controller/action ... " />
+            <marker date="1565660408523" expanded="true" signature="494:559" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <marker date="1565660547056" expanded="true" signature="6:292" ph="..." />
+            <marker date="1565660547056" expanded="true" signature="332:4638" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="339:614" ph="///  ... " />
+            <marker date="1565660547056" expanded="true" signature="878:4636" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="1063:1117" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="1127:1228" ph="/// Returns all entities ... " />
+            <marker date="1565660547056" expanded="true" signature="1371:1458" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="1468:1622" ph="/// Returns the entity with provided Id ... " />
+            <marker date="1565660547056" expanded="true" signature="1775:2025" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="2035:2199" ph="/// Finds entities based on a provided filter ... " />
+            <marker date="1565660547056" expanded="true" signature="2352:2452" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="2462:2650" ph="/// Update the specified entity ... " />
+            <marker date="1565660547056" expanded="true" signature="2848:3332" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="3030:3110" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="3159:3289" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="3342:3485" ph="/// Creates a new entity ... " />
+            <marker date="1565660547056" expanded="true" signature="3647:3880" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="3890:4037" ph="/// Deletes the specified entity ... " />
+            <marker date="1565660547056" expanded="true" signature="4199:4509" ph="{...}" />
+            <marker date="1565660547056" expanded="true" signature="4554:4630" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding>
+            <marker date="1565660561105" expanded="true" signature="6:292" ph="..." />
+            <marker date="1565660561105" expanded="true" signature="332:4195" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="339:483" ph="///  ... " />
+            <marker date="1565660561105" expanded="true" signature="647:4193" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="758:812" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="822:923" ph="/// Returns all entities ... " />
+            <marker date="1565660561105" expanded="true" signature="1046:1129" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="1139:1293" ph="/// Returns the entity with provided Id ... " />
+            <marker date="1565660561105" expanded="true" signature="1438:1682" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="1692:1856" ph="/// Finds entities based on a provided filter ... " />
+            <marker date="1565660561105" expanded="true" signature="1989:2083" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="2093:2281" ph="/// Update the specified entity ... " />
+            <marker date="1565660561105" expanded="true" signature="2459:2937" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="2641:2715" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="2764:2894" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="2947:3090" ph="/// Creates a new entity ... " />
+            <marker date="1565660561105" expanded="true" signature="3232:3459" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="3469:3616" ph="/// Deletes the specified entity ... " />
+            <marker date="1565660561105" expanded="true" signature="3770:4074" ph="{...}" />
+            <marker date="1565660561105" expanded="true" signature="4117:4187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding>
+            <marker date="1565660086392" expanded="false" signature="6:255" ph="..." />
+            <marker date="1565660086392" expanded="true" signature="278:605" ph="{...}" />
+            <marker date="1565660086392" expanded="true" signature="305:603" ph="{...}" />
+            <marker date="1565660086392" expanded="true" signature="358:432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase.Business/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565660617769" expanded="true" signature="45:85" ph="{...}" />
+            <marker date="1565660617769" expanded="true" signature="71:83" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase.Domain/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565660630318" expanded="true" signature="43:83" ph="{...}" />
+            <marker date="1565660630318" expanded="true" signature="69:81" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiceWebBase.Repository/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1565660651793" expanded="true" signature="47:87" ph="{...}" />
+            <marker date="1565660651793" expanded="true" signature="73:85" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
