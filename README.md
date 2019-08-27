@@ -12,7 +12,7 @@ Rice.SDK is a basic set of classes and interfaces used to develop .NET Core API'
 
 It can be download from nuget: https://www.nuget.org/packages/Rice.SDK/
 
-    PM> Install-Package Rice.SDK -Version 1.0.0
+    PM> Install-Package Rice.SDK
 
 
 Rice.SDK Structure:
