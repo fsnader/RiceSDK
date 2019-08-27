@@ -7,11 +7,11 @@ branches:
   only:
     - master
 before_build:
-- dotnet restore Rice.SDK/Rice.SDK/Rice.SDK.sln
+- dotnet restore Rice.SDK/Rice.SDK.sln
 
 build:
   parallel: true
-  project: Rice.SDK/Rice.SDK/Rice.SDK.sln
+  project: Rice.SDK/Rice.SDK.sln
   verbosity: minimal
 
 after_build:
