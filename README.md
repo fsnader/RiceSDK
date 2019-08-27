@@ -1,5 +1,6 @@
 Rice.SDK
 ---------------------
+[![Build status](https://ci.appveyor.com/api/projects/status/yeh30skl2t8oy8oq?svg=true)](https://ci.appveyor.com/project/fsnader/ricesdk)
 
 Rice.SDK is a basic set of classes and interfaces used to develop .NET Core API's. It includes:
  - Classes to generate JWT tokens
