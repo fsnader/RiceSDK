@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dd35149-ff84-4f34-ac73-9a0a5b6a7d81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RiceWebBase/Controllers/Base/DataTransferController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs" afterDir="false" />
-    </list>
+    <list default="true" id="4dd35149-ff84-4f34-ac73-9a0a5b6a7d81" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2">
-              <caret line="125" column="37" lean-forward="true" selection-start-line="125" selection-start-column="37" selection-end-line="125" selection-end-column="37" />
+              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
               <folding>
                 <marker date="1565662506071" expanded="true" signature="6:292" ph="..." />
                 <marker date="1565662506071" expanded="true" signature="332:4201" ph="{...}" />
@@ -211,10 +208,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1280" />
-    <option name="y" value="-82" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -306,12 +302,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565660073069</updated>
-      <workItem from="1565660076375" duration="1314000" />
+      <workItem from="1565660076375" duration="2071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1314000" />
+    <option name="totallyTimeSpent" value="2071000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,15 +319,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-82" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37883684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="NuGet" visible="true" weight="0.46423358" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Unit Tests" />
@@ -501,7 +496,7 @@
     <entry file="file://$PROJECT_DIR$/RiceWebBase/Controllers/Base/EntityController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2">
-          <caret line="125" column="37" lean-forward="true" selection-start-line="125" selection-start-column="37" selection-end-line="125" selection-end-column="37" />
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
           <folding>
             <marker date="1565662506071" expanded="true" signature="6:292" ph="..." />
             <marker date="1565662506071" expanded="true" signature="332:4201" ph="{...}" />
