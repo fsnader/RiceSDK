@@ -25,7 +25,7 @@ assembly_info:
   assembly_version: '{version}'
   assembly_informational_version: '{version}'
 artifacts:
-  - path: '**\Rice.SDK.nupkg'
+  - path: '**\Rice.SDK*.nupkg'
 deploy:
 - provider: NuGet
   api_key:
