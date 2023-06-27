@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <PackageId>Rice.SDK</PackageId>
@@ -11,7 +11,7 @@
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
     <PackageReference Include="NLog.Web.AspNetCore" Version="4.8.1" />
-    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.0.9" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.3.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.4" />
     <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.1.4" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.1.4" />
